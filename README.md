@@ -1,7 +1,7 @@
 ![Profile views](https://gpvc.arturio.dev/software-made-easy)
 
 # To do list
-- [ ] MardownEdit: Fix modified status
+- [x] MardownEdit: Fix modified status
 
 
 # Contact
