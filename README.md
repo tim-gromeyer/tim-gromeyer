@@ -1,7 +1,9 @@
 ![Profile views](https://gpvc.arturio.dev/software-made-easy)
 
+# News
+- [MarkdownEdit](https://github.com/software-made-easy/MarkdownEdit) is now complete!
+
 # To do list
-- [x] MardownEdit: Fix modified status
 
 
 # Contact
