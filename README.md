@@ -1,11 +1,9 @@
 ![Profile views](https://gpvc.arturio.dev/software-made-easy)
 
 # News
-- [MarkdownEdit](https://github.com/software-made-easy/MarkdownEdit) is now complete!
-
-# To do list
-
+- [MarkdownEdit](https://github.com/software-made-easy/MarkdownEdit) is now available!
+- [MimeDetector](https://github.com/software-made-easy/MimeDetector) is now available!
+- [Converter](https://github.com/software-made-easy/Converter) is now available!
 
 # Contact
-- E-Mail: software-made-easy@mail.de
-- German kontact: https://smeasy.wixsite.com/welcome/kontakt-1
+- E-Mail: <sakul8826@gmail.com>
