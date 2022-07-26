@@ -1,5 +1,3 @@
-![Profile views](https://gpvc.arturio.dev/software-made-easy)
-
 # News
 - [MarkdownEdit](https://github.com/software-made-easy/MarkdownEdit) is now available!
 - [MimeDetector](https://github.com/software-made-easy/MimeDetector) is now available!
