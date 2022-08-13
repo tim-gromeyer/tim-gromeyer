@@ -5,3 +5,5 @@
 
 # Contact
 - E-Mail: <sakul8826@gmail.com>
+## Help needed:
+I need help with [this](https://stackoverflow.com/questions/73263255/qt-android-blank-window) Question in stackoverflow.
