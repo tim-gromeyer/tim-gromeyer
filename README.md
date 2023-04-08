@@ -1,3 +1,7 @@
+Happy Easter! I hope you have a wonderful weekend filled with joy and happiness surrounded by your loved ones. Enjoy the Easter eggs and spring flowers!
+
+-------
+
 # Hi there! 👋
 
 I'm Tim Gromeyer, a hobby programmer from Germany. I enjoy tinkering with code and creating useful tools and libraries in my free time. Feel free to check out my repositories and see what I've been working on lately!
@@ -12,6 +16,6 @@ I'm Tim Gromeyer, a hobby programmer from Germany. I enjoy tinkering with code a
 
 ## Contact
 
-Feel free to reach out to me if you have any questions or want to collaborate on a project.
+Feel free to reach out to me if you have any questions or anything else.
 
 - Email: tim.gromeyer@gmail.com
