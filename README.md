@@ -12,5 +12,11 @@ I'm Tim Gromeyer, a hobby programmer from Germany. I enjoy tinkering with code a
 
 Feel free to reach out to me if you have any questions or anything else.
 
-- Email: tim.gromeyer@gmail.com
-- Instagram: [tim.gromeyer](https://pypi.org/project/pyhtml2md/)
+<div style="display:flex; align-items:center;">
+        <a href="mailto:tim.gromeyer@gmail.com">
+            <img src="gmail.svg" alt="gmail" style="width:48px; height:48px;">
+        </a>
+        <a href="https://www.instagram.com/tim.gromeyer/" target="_blank">
+            <img src="instagram.svg" alt="instagram" style="width:48px; height:48px;">
+        </a>
+</div>
