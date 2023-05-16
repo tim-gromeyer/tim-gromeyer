@@ -8,6 +8,8 @@ I'm Tim Gromeyer, a hobby programmer from Germany. I enjoy tinkering with code a
 - [MarkdownEdit](https://github.com/tim-gromeyer/MarkdownEdit) - Experience the speed and simplicity of MarkdownEdit, a simple Markdown editor built with Qt.
 - [html2md](https://github.com/tim-gromeyer/html2md) - Transform your HTML into clean, easy-to-read markdown with html2md. Don't forget to check out the Python bindings with [pyhtml2md](https://pypi.org/project/pyhtml2md/)!
 
+[Click here](https://tim-gromeyer.github.io/Website/) to enjoy a special surprise! 😉
+
 ## Contact
 
 Feel free to reach out to me if you have any questions or anything else.
